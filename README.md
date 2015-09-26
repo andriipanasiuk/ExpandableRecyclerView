@@ -2,6 +2,8 @@
 Create RecyclerView that has possibility to expand/collapse its items smoothly.
 While we don't know height of the expanded item views beforehand.
 
+![Demo GIF](https://github.com/andriipanasiuk/ExpandableRecyclerView/blob/master/demo.gif)
+
 ### Integration into the project
 
 For now you can use it as library project with the code or simply copy all the needed staff (package `core`) into your project.
